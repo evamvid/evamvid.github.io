@@ -1,6 +1,8 @@
  ---
 layout: post
 title: Testing the Waters
+published: True
+permalink:TestingTheWaters
 ---
 
 ##Well, Hi There!
