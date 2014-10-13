@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Ayyy! It's ya boy Evam. 
 
-### More Information
+I'm 15. I live somewhere on Earth.
 
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Want to talk to me? Look down. 
