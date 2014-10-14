@@ -50,5 +50,13 @@
             class="pinterest wc-img-replace" target="_blank">Pinterest</a>
     </li> 
     {% endif %}
+	
+	{% if site.harmony.social.stackoverflow %}
+    <li>
+        <a title="{{ site.harmony.social.stackoverflow }} on StackOverflow" 
+            href="https://www.stackoverflow.com/{{ site.harmony.social.stackoverflow }}" 
+            class="pinterest wc-img-replace" <!-- Make an SO class?? --> target="_blank">StackOverflow</a>
+    </li> 
+    {% endif %}
 
 </ul>
