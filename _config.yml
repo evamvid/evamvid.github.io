@@ -25,14 +25,19 @@ harmony:
   google_analytics_key: UA-xxxx-x
 
   # Profile links, leave blank to ignore
-  social: 
-    github: evamvid
-    twitter: evamvid
-    facebook: 
-    gplus:
-    dribble: 
-    pinterest: 
-	stackoverflow:
+
+footer-links:
+  dribbble: 
+  email: evamvid@gmail.com
+  facebook: 
+  flickr: 
+  github: evamvid
+  instagram: 
+  linkedin: 
+  pinterest: 
+  rss: rss # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: evamvid
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   # Toggle disclaimer in footer
   show_disclaimer: true
 
