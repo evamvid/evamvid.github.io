@@ -4,13 +4,13 @@ title: My Planned Projects
 permalink: /projects/
 published: true
 ---
-##Hi There!
-#This is a list of some projects I plan to do in the future
-* 3D Printer([Kossel Mini][kossel])
-* [Hexapod Robot][hex]
-* [Kiwi/Honolomic Drive Robot][hex]
-  * I also want to make a couple of these with thumbtacks and balloons so they can battle
-* Knifemaking -- Check out how [Hackett][hackett] and [Will from Storm The Castle][stc] did it
+###Hi There!
+##This is a list of some projects I plan to do in the future
+*3D Printer([Kossel Mini][kossel])
+*[Hexapod Robot][hex]
+*[Kiwi/Honolomic Drive Robot][hex]
+  *I also want to make a couple of these with thumbtacks and balloons so they can battle
+*Knifemaking -- Check out how [Hackett][hackett] and [Will from Storm The Castle][stc] did it
 
 [kossel]: http://reprap.org/wiki/Kossel)
 [hex]: http://www.thingiverse.com/thing:30088
