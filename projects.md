@@ -13,6 +13,6 @@ published: true
 
 [kossel]: http://reprap.org/wiki/Kossel
 [hex]: http://www.thingiverse.com/thing:30088
-[kiwi: http://makezine.com/projects/make-40/kiwi/
+[kiwi]: http://makezine.com/projects/make-40/kiwi/
 [hackett]: http://www.popsci.com/article/diy/how-i-used-paint-can-forge-rugged-knife-video?18xYfXeZ1TFg3M94.03
 [stc]: http://www.stormthecastle.com/blacksmithing/blacksmithing-a-knife/knifemaking.htm
