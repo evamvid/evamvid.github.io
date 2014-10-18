@@ -1,3 +1,9 @@
+---
+layout: page
+title: My Planned Projects
+permalink: /projects/
+published: true
+---
 ##Hi There!
 #This is a list of some projects I plan to do in the future
 * 3D Printer([Kossel Mini][kossel])
