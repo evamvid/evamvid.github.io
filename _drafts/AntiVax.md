@@ -14,4 +14,5 @@ Anti-vaxxers commonly cite [the Wakefield study][study "The Wakefield Study"] as
 
 [study]:http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(97)11096-0/fulltext
 
-{% comment %}http://www2.aap.org/immunization/families/autismwakefield.html{% endcomment %}
+{% comment %}http://www2.aap.org/immunization/families/autismwakefield.html {% endcomment %}
+{% comment %}http://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims {% endcomment %}
