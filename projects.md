@@ -10,9 +10,11 @@ published: true
 * [Kiwi/Honolomic Drive Robot][hex]
   * I also want to make a couple of these with thumbtacks and balloons so they can battle
 * Knifemaking -- Check out how [Hackett][hackett] and [Will from Storm The Castle][stc] did it
-* Music Production -- I plan to buy a [DAW][DAW] sometime around Christmas (2014)
+* Music Production -- Using FOSS software, such as Ardour
 * Drift Trike -- design similar to [this no-weld design][drift]
 	* Possibly Motorized - 450W motor
+*Custom Mechanical Keyboard
+	*40Percenters
 
 [kossel]: http://reprap.org/wiki/Kossel
 [hex]: http://www.thingiverse.com/thing:30088
