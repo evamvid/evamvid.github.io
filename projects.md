@@ -1,9 +1,10 @@
 ---
 layout: page
-title: My Planned Projects
+title:Projects
 permalink: /projects/
 published: true
 ---
+
 ###This is a list of stuff I want to do soon.
 * 3D Printer([Kossel Mini][kossel])
 * [Hexapod Robot][hex]
@@ -13,8 +14,14 @@ published: true
 * Music Production -- Using FOSS software, such as Ardour
 * Drift Trike -- design similar to [this no-weld design][drift]
 	* Possibly Motorized - 450W motor
-*Custom Mechanical Keyboard
-	*40Percenters
+* Custom Mechanical Keyboard
+	* 40Percenters
+
+###These are some things I have done recently
+* colorizer -- takes an image and creates a gif of the image going from 0 to 100% saturation -- may be uploaded soon
+* pages-pdf -- makes a pdf out of an Apple Pages document
+* pomodoro -- tiny console-based pomodoro timer
+* youtube-mp3 -- not much more than a wrapper for youtube-dl's python module with easier user prompts
 
 [kossel]: http://reprap.org/wiki/Kossel
 [hex]: http://www.thingiverse.com/thing:30088
