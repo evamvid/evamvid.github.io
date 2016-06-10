@@ -5,7 +5,7 @@ permalink: /projects/
 published: true
 ---
 
-###This is a list of stuff I want to do soon.
+#This is a list of stuff I want to do soon.
 
 * 3D Printer([Kossel Mini][kossel])
 * [Hexapod Robot][hex]
@@ -18,7 +18,7 @@ published: true
 * Custom Mechanical Keyboard
 	* 40Percenters
 
-###These are some things I have done recently
+#These are some things I have done recently
 
 
 * colorizer -- takes an image and creates a gif of the image going from 0 to 100% saturation -- may be uploaded soon
