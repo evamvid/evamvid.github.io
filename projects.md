@@ -6,6 +6,7 @@ published: true
 ---
 
 ###This is a list of stuff I want to do soon.
+
 * 3D Printer([Kossel Mini][kossel])
 * [Hexapod Robot][hex]
 * [Kiwi/Honolomic Drive Robot][hex]
